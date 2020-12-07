@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02523ef1-c66f-4c7d-bbee-e33516b9f712" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sonic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sonic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/ab_testing.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ab_testing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/dev_project.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/dev_project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/responsive_project.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/responsive_project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sonic.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sonic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/blueroom.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/blueroom.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/fusion.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/fusion.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/mezcla.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/mezcla.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/trumpet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/trumpet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/will.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607125289455</updated>
       <workItem from="1607125291019" duration="1122000" />
-      <workItem from="1607366919231" duration="5022000" />
+      <workItem from="1607366919231" duration="5670000" />
     </task>
     <servers />
   </component>
